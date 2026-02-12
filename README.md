@@ -4,6 +4,7 @@ README.md
 
 // eslint.config.mjs
 
+```mjs
 import js from "@eslint/js";
 import nextPlugin from "@next/eslint-plugin-next";
 import tseslint from "typescript-eslint";
@@ -60,9 +61,10 @@ export default [
     },
   },
 ];
-
+```
 
 ============================
+```mjs
 eslint.config.mjs
 gemini
 
@@ -121,6 +123,6 @@ export default [
   },
 ];
 
-
+```
 
 
